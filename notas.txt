@@ -1,3 +1,4 @@
 1: Git guarda el historial del proyecto.
 2: Cada commit es una foto del proyecto y tiene un historial.
 3: Las ramas permiten trabajar sin dañar main.
+4: Siempre tener cuidado con los Merge primero revisar los cambios.
